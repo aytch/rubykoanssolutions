@@ -1,3 +1,10 @@
+= These Are My Personal Solutions
+
+I'm working through them for personal enrichment, and because I enjoy challenging
+my understanding of programming. If you're stuck, you're welcome to use my
+solutions - but I'd recommend sending me a message and discussing /why/ things
+work the way they do, because that's far more interesting.
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
